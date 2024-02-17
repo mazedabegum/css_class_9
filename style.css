@@ -67,15 +67,56 @@ padding: 0;
     margin-top: 50px;
     margin-bottom: 50px;
 }
+.relationship-text-icon{
+    color: blue;
+}
 .second-banner-area{
     background-image: url(images/banner/banner02.png);
     background-size: cover;
     height: 683px;
 }
 .banner p{
-    width: 1010px;
+    width: 683px;
     height: 93px;
 }
 .aduilts-area{
     display: flex;
+    margin-top: 50px;
+}
+
+
+.third-banner-area{
+    background-image: url(images/banner/banner03.png);
+    background-size: cover;
+    height: 683px;
+}
+.third-banner h1{
+    background-color: #fff;
+    width: 369px;
+    height: 83px;
+}
+.third-banner p{
+    background-color: #fff;
+    width: 581px;
+    height: 68px;
+}
+.our-area{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.fourth-banner-area{
+    background-image: url(images/banner/banner04.png);
+    background-size: cover;
+    height: 683px;
+}
+.fourth-banner h1{
+background-color: #fff;
+width: 369px;
+height: 68px;
+}
+.fourth-banner h3{
+background-color: #fff;
+width: 581px;
+height: 68px;
 }
